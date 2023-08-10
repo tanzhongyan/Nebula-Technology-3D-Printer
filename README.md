@@ -2,7 +2,7 @@
 
 ## Description
 
-This is an in-depth review regarding the most popular COREXY 3D Printer currently on [Taobao](https://item.taobao.com/item.htm?spm=a1z09.8149145.w4004-9653588878.3.400e6876iOqY7E&id=698708994651). 
+This is an in-depth review regarding the most popular COREXY 3D Printer currently on [Taobao](https://item.taobao.com/item.htm?spm=a1z09.8149145.w4004-9653588878.3.400e6876iOqY7E&id=698708994651). It also contains useful marlin files and STLs required for this printer.
 Coming in at 170USD before shipping, it has many upgrades and features compared to other COREXY printers out there for a fraction of the price. 
 
 ## Features
